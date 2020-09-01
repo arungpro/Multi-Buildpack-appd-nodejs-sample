@@ -31,7 +31,7 @@ There are two ways to do it
 ```sh
     $ git clone git@github.com:<yourgitusername>/Multi-Buildpack-appd-nodejs-sample.git && cd Multi-Buildpack-appd-nodejs-sample
 ```
-Note: Change <yourgitusername> to your username
+Note: Change "yourgitusername" to your git username
 
 ## Step 3: Make necessary changes at manifest.yml file
 ENV variables Names that you define should with https://docs.appdynamics.com/display/PRO45/Node.js+Settings+Reference#Node.jsSettingsReference-EnvironmentVariables
