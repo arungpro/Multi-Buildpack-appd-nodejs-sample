@@ -1,4 +1,4 @@
-# Appd PCF Python multibuildpack demo
+# Appd PCF Nodejs multibuildpack demo
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
