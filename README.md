@@ -25,7 +25,7 @@ There are two ways to do it
 
 2. Using User defined Service (CUPS)
     ```sh
-        $ cf cups demo -p '{"account-access-key":"acce$$key", "account-name":"customer1", "host-name":"dem    o.appdynamics.com", "port":"8090", "ssl-enabled":false}' 
+        $ cf cups appdynamics-demo-svs -p '{"account-access-key":"acce$$key", "account-name":"customer1", "host-name":"dem    o.appdynamics.com", "port":"8090", "ssl-enabled":false}' 
     ```
 ## Step 2: Clone the repo
 ```sh
